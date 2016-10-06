@@ -1,0 +1,7 @@
+-> dans menu.h
+	//SCORE
+	changer URL de GOOGLE afin de pvr ouvrir le site des scores en local
+
+-> supprimer fichier arial
+
+-> ajuster couleurs du score in-game pour que ça corresponde a la couleur du personnage
